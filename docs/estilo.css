@@ -1,0 +1,72 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     background-color: rgb(143, 54, 131);
+    color: rgb(48, 10, 99);
+}
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 300px;
+    border: 3px solid black;
+}
+.nome{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(43, 3, 138);
+}
+
+.headernome {
+    margin: 2%;
+    margin-top: 5%;
+
+}
+form{
+    border-style: solid;
+    border-color: rgb(22, 49, 43);
+    border-radius: 1em;
+    padding: 2%;
+    border-width: 0.15em;
+    width: max-content;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.sectionform{
+    border-style: solid;
+    border-color: rgb(22, 49, 43);
+    border-radius: 1em;
+    margin-top: 5em;
+    border-width: 0.1em;
+   width:400px;
+   padding: 1%;
+}
+
+.sectionform a, .sectionform i{
+    display: inline-block;
+    font-size: 20px;
+    padding: 0.5%;
+}
+
+.bi-envelope-at{
+    color: rgb(243, 0, 0);
+}
+.bi-linkedin{
+    color: rgb(0, 247, 111);
+}
+.bi-whatsapp{
+    color: green;
+}
+
+.listmenu{
+    list-style: none ;
+    display: inline;
+    padding: 2%;
+    border: solid;
+    border-color: rgb(238, 137, 6);
+}
+
+.linkmenu{
+     text-decoration: none;
+    }
+    .listmenu:hover{
+        background-color: rgb(206, 216, 206);
+        
+    }
